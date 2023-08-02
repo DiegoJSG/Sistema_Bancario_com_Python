@@ -65,3 +65,9 @@ message: No transactions were performed.
 Values ​​must be displayed using the format BRL xxx.xx,
 example:
 1500.45 = BRL 1500.45
+
+## Update.py
+> Update.py
+- Esta otimizando o Sistema Bancário anterior desenvolvido com o uso de funções Python. O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extração em funções específicas. refatorando o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo.
+
+> Is optimizing the previous Banking System developed using Python functions. The objective is to improve the structure and efficiency of the system, implementing deposit, withdrawal and extraction operations in specific functions. refactoring the existing code, breaking it into reusable functions, making it easier to maintain and understand the system as a whole.
